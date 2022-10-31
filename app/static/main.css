@@ -1,0 +1,52 @@
+body{
+    font-family: 'The Wild Breath of Zelda', sans-serif;
+    background-image: linear-gradient(rgb(0,0,0,0.8), rgb(0,0,0,0)),url("https://www.hiddentriforce.com/wp-content/uploads/2014/12/zelda-items.jpg");
+    background-repeat: no-repeat;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.finder{
+    display: flex;
+    justify-content: center;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+}
+
+.nav-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    font-size: large;
+}
+
+.index-header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(72, 91, 39);
+    align-items: center;
+    align-content: space-around;
+}
+
+.items-header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(72, 91, 39);
+    align-items: center;
+    align-content: space-around;
+}
+
+.cart-header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(72, 91, 39);
+    align-items: center;
+    align-content: space-around;
+}
